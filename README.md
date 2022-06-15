@@ -4,7 +4,7 @@ A Flutter project to Remove Image Background.
 
 ## Getting Started
 
-This project covers how to remove image background using remove.bg api.
+This project covers how to remove image background using [remove.bg](https://www.remove.bg/tools-api/api-commandline) api.
 
 ## Dependences
 
